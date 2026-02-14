@@ -1,4 +1,4 @@
-# --- PROJECT ADVANCED MATHEMATICAL CALCULATOR ---
+# PROJECT ADVANCED MATHEMATICAL CALCULATOR
 
 ## Advanced Mathematical Calculator
 A professional-grade Python CLI tool for complex mathematical computation, moving beyond basic arithmetic into the realm of symbolic-style logic and data visualization.
